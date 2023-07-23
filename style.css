@@ -1,0 +1,15 @@
+*/Change items into what you prefer, add items as well in normal CSS fashion. Item should be tocBox */
+#tocBox a::before {
+    content: "→ ";
+    color: #FF3254;
+}
+
+#tocBox a {
+    font-weight: bold;
+    color: #FFF;
+    text-decoration: none;
+}
+
+#tocBox a:hover {
+    color: #FF3254;
+}
