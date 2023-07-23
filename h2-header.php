@@ -1,7 +1,7 @@
 <?php
 /**
 * Plugin Name: ToC Header Assign 
-* Plugin URI: https://github.com/aerowa/wp-h2-header-print-plugin
+* Plugin URI: https://github.com/aerowa/head-to-toc-wp
 * Description: Assigns h2 to links on selected pages. Please see readme on plugin URL.
 * Version: 0.3.4
 * Author: Mimmikk.
