@@ -18,7 +18,7 @@ add_action( 'wp_enqueue_scripts', 'myplugin_enqueue_styles' );
 
 function table_of_contents() {
     // array of page IDs
-    $ids = array(2464, 2934);
+    $ids = array(PAGEID);
     // get current page ID
     $current_id = get_the_ID();
 
