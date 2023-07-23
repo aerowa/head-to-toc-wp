@@ -1,5 +1,5 @@
 # head-to-toc-wp
-Very simple WordPress plugin that transforms your head tags into a table of content.
+Very simple WordPress plugin that transforms your head tags into a table of content, especially useful if your theme doesn't support other plugins for table of contents.
 
 
 Use:
