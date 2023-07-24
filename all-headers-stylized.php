@@ -2,8 +2,8 @@
 /**
 * Plugin Name: Head to Link
 * Plugin URI: https://github.com/aerowa/head-to-toc-wp
-* Description: Assigns Head tags to links on selected pages as 'Table of Contents'. Please see readme on plugin URL. !Important! Customized for DailyAI: ALL headers are linked, and been stylized. You only need to change pageID under "array" and Reupload.
-* Version: 0.3.9
+* Description: Assigns Head tags to links on selected pages as 'Table of Contents'. Please see readme on plugin URL.
+* Version: 0.4.1
 * Author: Mimmikk.
 * Author URI: https://github.com/aerowa
 * License: GPL2
